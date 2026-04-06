@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "wooden_trapdoor",
+    "key": {
+        "#": "#minecraft:warped_stems"
+    },
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "result": {
+        "id": "minecraft:warped_trapdoor",
+        "count": 8
+    },
+    "show_notification": true
+}
+

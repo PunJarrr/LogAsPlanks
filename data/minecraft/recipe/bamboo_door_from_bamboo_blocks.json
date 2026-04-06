@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "wooden_door",
+    "key": {
+        "#": "#minecraft:bamboo_blocks"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "id": "minecraft:bamboo_door",
+        "count": 6
+    },
+    "show_notification": true
+}
+

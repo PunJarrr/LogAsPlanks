@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "boat",
+    "key": {
+        "#": "#minecraft:jungle_logs"
+    },
+    "pattern": [
+        "# #",
+        "###"
+    ],
+    "result": {
+        "id": "minecraft:jungle_boat",
+        "count": 4
+    },
+    "show_notification": true
+}

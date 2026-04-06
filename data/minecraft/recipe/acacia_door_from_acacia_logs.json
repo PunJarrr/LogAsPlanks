@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "wooden_door",
+    "key": {
+        "#": "#minecraft:acacia_logs"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "id": "minecraft:acacia_door",
+        "count": 12
+    },
+    "show_notification": true
+}
+

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "wooden_slab",
+    "key": {
+        "#": "#minecraft:cherry_logs"
+    },
+    "pattern": [
+        "###"
+    ],
+    "result": {
+        "id": "minecraft:cherry_slab",
+        "count": 24
+    },
+    "show_notification": true
+}
+
