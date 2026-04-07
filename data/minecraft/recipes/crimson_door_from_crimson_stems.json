@@ -11,9 +11,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:crimson_door",
+        "item": "minecraft:crimson_door",
         "count": 12
     },
     "show_notification": true
 }
+
 

@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:bamboo_raft",
+        "item": "minecraft:bamboo_raft",
         "count": 2
     },
     "show_notification": true
 }
+

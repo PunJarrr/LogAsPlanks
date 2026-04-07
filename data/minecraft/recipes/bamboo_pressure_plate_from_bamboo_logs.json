@@ -9,9 +9,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:bamboo_pressure_plate",
+        "item": "minecraft:bamboo_pressure_plate",
         "count": 2
     },
     "show_notification": true
 }
+
 

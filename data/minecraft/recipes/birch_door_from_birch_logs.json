@@ -11,9 +11,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:birch_door",
+        "item": "minecraft:birch_door",
         "count": 12
     },
     "show_notification": true
 }
+
 

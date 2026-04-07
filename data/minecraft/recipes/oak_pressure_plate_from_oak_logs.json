@@ -9,8 +9,9 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:oak_pressure_plate",
+        "item": "minecraft:oak_pressure_plate",
         "count": 4
     },
     "show_notification": true
 }
+

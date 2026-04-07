@@ -9,9 +9,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:bamboo_slab",
+        "item": "minecraft:bamboo_slab",
         "count": 12
     },
     "show_notification": true
 }
+
 

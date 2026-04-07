@@ -9,9 +9,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:birch_slab",
+        "item": "minecraft:birch_slab",
         "count": 24
     },
     "show_notification": true
 }
+
 

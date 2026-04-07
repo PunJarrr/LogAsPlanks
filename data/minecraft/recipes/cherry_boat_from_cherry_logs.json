@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:cherry_boat",
+        "item": "minecraft:cherry_boat",
         "count": 4
     },
     "show_notification": true
 }
+

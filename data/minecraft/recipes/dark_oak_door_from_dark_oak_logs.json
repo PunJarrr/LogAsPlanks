@@ -11,9 +11,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:dark_oak_door",
+        "item": "minecraft:dark_oak_door",
         "count": 12
     },
     "show_notification": true
 }
+
 

@@ -11,9 +11,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:bamboo_stairs",
+        "item": "minecraft:bamboo_stairs",
         "count": 8
     },
     "show_notification": true
 }
+
 

@@ -11,9 +11,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:birch_stairs",
+        "item": "minecraft:birch_stairs",
         "count": 16
     },
     "show_notification": true
 }
+
 

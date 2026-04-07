@@ -9,9 +9,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:acacia_slab",
+        "item": "minecraft:acacia_slab",
         "count": 24
     },
     "show_notification": true
 }
+
 

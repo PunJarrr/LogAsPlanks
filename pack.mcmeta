@@ -1,6 +1,9 @@
 {
     "pack": {
-        "pack_format": 41,
-        "description": "§6Log as Planks\n§eby PunJarrr"
+        "pack_format": 26,
+        "description": "§6Log as Planks\n§eby PunJarrr",
+        "supported_formats": [4, 26],
+        "min_format": 4,
+        "max_format": 26
     }
 }

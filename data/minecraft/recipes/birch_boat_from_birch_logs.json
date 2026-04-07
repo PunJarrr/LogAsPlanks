@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:birch_boat",
+        "item": "minecraft:birch_boat",
         "count": 4
     },
     "show_notification": true
 }
+

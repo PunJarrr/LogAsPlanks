@@ -11,9 +11,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:acacia_door",
+        "item": "minecraft:acacia_door",
         "count": 12
     },
     "show_notification": true
 }
+
 

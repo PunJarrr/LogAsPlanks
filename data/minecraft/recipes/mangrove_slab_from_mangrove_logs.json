@@ -9,9 +9,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:mangrove_slab",
+        "item": "minecraft:mangrove_slab",
         "count": 24
     },
     "show_notification": true
 }
+
 

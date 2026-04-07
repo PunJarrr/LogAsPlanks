@@ -11,9 +11,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:jungle_stairs",
+        "item": "minecraft:jungle_stairs",
         "count": 16
     },
     "show_notification": true
 }
+
 

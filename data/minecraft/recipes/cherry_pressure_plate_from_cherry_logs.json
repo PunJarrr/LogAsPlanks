@@ -9,9 +9,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:cherry_pressure_plate",
+        "item": "minecraft:cherry_pressure_plate",
         "count": 4
     },
     "show_notification": true
 }
+
 

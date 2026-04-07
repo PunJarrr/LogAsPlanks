@@ -10,9 +10,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:spruce_trapdoor",
+        "item": "minecraft:spruce_trapdoor",
         "count": 8
     },
     "show_notification": true
 }
+
 

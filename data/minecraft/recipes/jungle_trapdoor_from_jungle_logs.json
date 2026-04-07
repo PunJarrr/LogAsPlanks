@@ -10,9 +10,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:jungle_trapdoor",
+        "item": "minecraft:jungle_trapdoor",
         "count": 8
     },
     "show_notification": true
 }
+
 

@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:dark_oak_boat",
+        "item": "minecraft:dark_oak_boat",
         "count": 4
     },
     "show_notification": true
 }
+

@@ -11,9 +11,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:cherry_door",
+        "item": "minecraft:cherry_door",
         "count": 12
     },
     "show_notification": true
 }
+
 

@@ -9,8 +9,9 @@
         "#"
     ],
     "result": {
-        "id": "minecraft:stick",
+        "item": "minecraft:stick",
         "count": 16
     },
     "show_notification": true
 }
+

@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:acacia_boat",
+        "item": "minecraft:acacia_boat",
         "count": 4
     },
     "show_notification": true
 }
+

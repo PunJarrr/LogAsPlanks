@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:jungle_boat",
+        "item": "minecraft:jungle_boat",
         "count": 4
     },
     "show_notification": true
 }
+

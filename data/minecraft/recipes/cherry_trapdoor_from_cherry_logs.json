@@ -10,9 +10,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:cherry_trapdoor",
+        "item": "minecraft:cherry_trapdoor",
         "count": 8
     },
     "show_notification": true
 }
+
 

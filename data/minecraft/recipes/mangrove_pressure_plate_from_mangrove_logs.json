@@ -9,9 +9,10 @@
         "##"
     ],
     "result": {
-        "id": "minecraft:mangrove_pressure_plate",
+        "item": "minecraft:mangrove_pressure_plate",
         "count": 4
     },
     "show_notification": true
 }
+
 

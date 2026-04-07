@@ -10,8 +10,9 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:oak_boat",
+        "item": "minecraft:oak_boat",
         "count": 4
     },
     "show_notification": true
 }
+

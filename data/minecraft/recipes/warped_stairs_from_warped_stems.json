@@ -11,9 +11,10 @@
         "###"
     ],
     "result": {
-        "id": "minecraft:warped_stairs",
+        "item": "minecraft:warped_stairs",
         "count": 16
     },
     "show_notification": true
 }
+
 
